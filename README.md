@@ -1,19 +1,11 @@
-# sistema-biblioteca
-Sistema simples simulador de aluguel de livros de uma biblioteca em Python, para praticar lógica de programação.
+# Projetos em Python
 
-O programa:
-- permite buscar livros em uma lista;
-- informa quando o livro não está disponível;
-- permite simular o aluguel;
-- solicita nome e contato do usuário.
+Estou no 1º período de Ciência da Computação e este repositório reúne alguns dos meus projetos enquanto aprendo Python!
 
-Usando:
-- estruturas condicionais (if/else);
-- laços de repetição (while);
-- listas e dicionários;
-- entrada e tratamento básico de dados.
+## Projetos:
 
-Futuras melhorias:
-- melhorar a forma de busca dos livros;
-- validar melhor as entradas do usuário;
-- organizar melhor o código em funções.
+### Sistema de Biblioteca
+Um sistema simples para gerenciar livros disponíveis, permitindo buscar, listar e alugar livros.
+
+### Controle de Gastos
+Sistema básico para registrar gastos e visualizar o total, ajudando no controle financeiro.
